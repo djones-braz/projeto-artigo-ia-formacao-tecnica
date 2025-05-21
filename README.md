@@ -17,11 +17,11 @@
 
   Repositório que reúne os materiais produzidos no **Projeto de Desenvolvimento de Artigo Científico e Capítulo de Livro**, orientado pelo **Professor Djones Braz de Araujo Costa** (IFF Maricá).  
   Trabalho realizado pelos alunos do **Técnico em Informática para Internet**:
+  - **Isabelle Ramalho Feitosa** 
   - **Caio Costa Ribeiro**  
   - **Juliana Menezes de Holanda**  
   - **Ana Clara Mendes P. dos Santos**  
-  - **João Victor Dornelas Leal**  
-  - **Isabelle Ramalho Feitosa**  
+  - **João Victor Dornelas Leal**   
   - **Luís Miguell de Souza**  
 
   ### Principais entregáveis
@@ -45,10 +45,10 @@
   .
   ├── artigo/
   │   ├── manuscrito_artigo.pdf
-  │   └── dados_suporte/
+  │ 
   ├── capitulo/
   │   ├── manuscrito_capitulo.pdf
-  │   └── assets/
+  │ 
   ├── declaracao/
   │   └── declaracao_cadped.pdf
   └── README.md
