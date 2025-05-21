@@ -44,10 +44,10 @@
   ```text
   .
   ├── artigo/
-  │   ├── manuscrito_artigo.pdf
+  │   └── manuscrito_artigo.pdf
   │ 
   ├── capitulo/
-  │   ├── manuscrito_capitulo.pdf
+  │   └── manuscrito_capitulo.pdf
   │ 
   ├── declaracao/
   │   └── declaracao_cadped.pdf
