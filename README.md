@@ -30,13 +30,16 @@
 
 This repository contains all the material and artifacts generated during the development of:
 
-* **Scientific Article:** "Os impactos da Inteligência Artificial (IA) na formação técnica" (publicado em Caderno Pedagógico, v.22, n.6, 2025)
-* **Book Chapter:** Presented for dissemination in Academic Book with DOI 10.54033/cadpedv22n6-137
+* **Scientific Article:** _"Os impactos da Inteligência Artificial (IA) na formação técnica" - (publicado em Caderno Pedagógico, v.22, n.6, 2025)_
+* **Book Chapter:** _Presented for dissemination in Academic Book with DOI 10.54033/cadpedv22n6-137_
 
 Ambos os trabalhos exploram como a IA está transformando metodologias de ensino técnico e profissional.
 
   ## 💡 Main Deliverables
-  - **Scientific Article**: “Os impactos da Inteligência Artificial (IA) na formação técnica” – *Revista Caderno Pedagógico* (v.22, n.6, 2025).  
+  - **Scientific Article- Citation according to ABNT**:
+
+COSTA, D. B. de A.; SANTOS, A. C. M. P. dos; RIBEIRO, C. C.; FEITOSA, I. R.; LEAL, J. V. D.; HOLANDA, J. M. de; SOUZA, L. M. de. **Os impactos da Inteligência Artificial (IA) na formação técnica.** Caderno Pedagógico, [S. l.], v. 22, n. 6, p. e15545, 2025. DOI: 10.54033/cadpedv22n6-137. Disponível em: https://ojs.studiespublicacoes.com.br/ojs/index.php/cadped/article/view/15545. Acesso em: 23 maio. 2025.
+   
   - **Book Chapter - Citation according to ABNT**:
 
 COSTA, Djones Braz de Araujo; PESSANHA DOS SANTOS, Ana Clara Mendes; RIBEIRO, Caio Costa; FEITOSA, Isabelle Ramalho; LEAL, João Victor Dornelas; HOLANDA, Juliana Menezes de; SOUZA, Luís Miguell de. The impacts of artificial intelligence (AI) on technical training. In: CATAPAN, Anderson (Org.). _Scientific methods in mathematics._ Curitiba: Studies Publicações, 2025. p. 42–⁠⁠?⁠. DOI: 10.54033/stebook.978-65-83309-20-4_3
