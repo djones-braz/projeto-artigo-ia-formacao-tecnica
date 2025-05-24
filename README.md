@@ -30,8 +30,8 @@
 
 This repository contains all the material and artifacts generated during the development of:
 
-* **Scientific Article:** _"Os impactos da Inteligência Artificial (IA) na formação técnica" - (publicado em Caderno Pedagógico, v.22, n.6, 2025)_
-* **Book Chapter:** _Presented for dissemination in Academic Book with DOI 10.54033/cadpedv22n6-137_
+* **Scientific Article:** _"Os impactos da Inteligência Artificial (IA) na formação técnica" - (published in Caderno Pedagógico, v.22, n.6, 2025)_
+* **Book Chapter:** _"The impacts of Artificial Intelligence (AI) on technical training" - (published in Academic Book Scientific methods in mathematics, DOI 10.54033/cadpedv22n6-137_)
 
 Ambos os trabalhos exploram como a IA está transformando metodologias de ensino técnico e profissional.
 
@@ -42,7 +42,7 @@ COSTA, D. B. de A.; SANTOS, A. C. M. P. dos; RIBEIRO, C. C.; FEITOSA, I. R.; LEA
    
   - **Book Chapter - Citation according to ABNT**:
 
-COSTA, Djones Braz de Araujo; PESSANHA DOS SANTOS, Ana Clara Mendes; RIBEIRO, Caio Costa; FEITOSA, Isabelle Ramalho; LEAL, João Victor Dornelas; HOLANDA, Juliana Menezes de; SOUZA, Luís Miguell de. The impacts of artificial intelligence (AI) on technical training. In: CATAPAN, Anderson (Org.). _Scientific methods in mathematics._ Curitiba: Studies Publicações, 2025. p. 42–⁠⁠?⁠. DOI: 10.54033/stebook.978-65-83309-20-4_3
+COSTA, Djones Braz de Araujo; PESSANHA DOS SANTOS, Ana Clara Mendes; RIBEIRO, Caio Costa; FEITOSA, Isabelle Ramalho; LEAL, João Victor Dornelas; HOLANDA, Juliana Menezes de; SOUZA, Luís Miguell de. **The impacts of artificial intelligence (AI) on technical training.** In: CATAPAN, Anderson (Org.). _Scientific methods in mathematics._ Curitiba: Studies Publicações, 2025. p. 42–⁠⁠?⁠. DOI: 10.54033/stebook.978-65-83309-20-4_3
 
   ---
 
